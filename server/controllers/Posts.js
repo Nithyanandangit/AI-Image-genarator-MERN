@@ -6,9 +6,9 @@ import { v2 as cloudinary } from "cloudinary";
 dotenv.config();
 
 cloudinary.config({
-  cloud_name: 'dsqmwmd0t',
-  api_key: '321565929976865',
-  api_secret: 'Q34bhHvhRXIModK35f6wI9udE8g',
+  cloud_name: 'replace_with-your-id',
+  api_key: 'replace_with-your-id',
+  api_secret: 'replace_with-your-id',
   secure: true,
 });
 
